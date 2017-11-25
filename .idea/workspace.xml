@@ -1,7 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72f4c838-a7af-42df-bc25-e31a83cb6727" name="Default" comment="" />
+    <list default="true" id="72f4c838-a7af-42df-bc25-e31a83cb6727" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/0_regexTok_6bd909d1a574/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/0_regexTok_6bd909d1a574/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/0_regexTok_6bd909d1a574/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/0_regexTok_6bd909d1a574/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/1_stopWords_566e56454f8c/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/1_stopWords_566e56454f8c/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/1_stopWords_566e56454f8c/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/1_stopWords_566e56454f8c/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/2_cntVec_b48fb6f972de/data/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/2_cntVec_b48fb6f972de/data/.part-00000-fb2934ed-4fb5-41e0-8d0c-f81cb9b90fc6-c000.snappy.parquet.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/2_cntVec_b48fb6f972de/data/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/2_cntVec_b48fb6f972de/data/part-00000-fb2934ed-4fb5-41e0-8d0c-f81cb9b90fc6-c000.snappy.parquet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/2_cntVec_b48fb6f972de/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/2_cntVec_b48fb6f972de/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/2_cntVec_b48fb6f972de/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/2_cntVec_b48fb6f972de/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/3_idf_ca9fa8842fbc/data/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/3_idf_ca9fa8842fbc/data/.part-00000-b1e9a4b2-fb0b-4f95-8cfd-f713a1e907ae-c000.snappy.parquet.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/3_idf_ca9fa8842fbc/data/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/3_idf_ca9fa8842fbc/data/part-00000-b1e9a4b2-fb0b-4f95-8cfd-f713a1e907ae-c000.snappy.parquet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/3_idf_ca9fa8842fbc/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/3_idf_ca9fa8842fbc/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/3_idf_ca9fa8842fbc/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/3_idf_ca9fa8842fbc/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/4_strIdx_e687a4a81dc5/data/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/4_strIdx_e687a4a81dc5/data/.part-00000-66a9f0fc-5bf5-4ec3-a631-872b21ff44dd-c000.snappy.parquet.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/4_strIdx_e687a4a81dc5/data/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/4_strIdx_e687a4a81dc5/data/part-00000-66a9f0fc-5bf5-4ec3-a631-872b21ff44dd-c000.snappy.parquet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/4_strIdx_e687a4a81dc5/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/4_strIdx_e687a4a81dc5/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/4_strIdx_e687a4a81dc5/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/4_strIdx_e687a4a81dc5/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/5_strIdx_c3e0b8826fa6/data/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/5_strIdx_c3e0b8826fa6/data/.part-00000-0eaa6003-dbdb-4c2f-ba5d-642bf6474aa5-c000.snappy.parquet.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/5_strIdx_c3e0b8826fa6/data/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/5_strIdx_c3e0b8826fa6/data/part-00000-0eaa6003-dbdb-4c2f-ba5d-642bf6474aa5-c000.snappy.parquet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/5_strIdx_c3e0b8826fa6/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/5_strIdx_c3e0b8826fa6/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/5_strIdx_c3e0b8826fa6/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/5_strIdx_c3e0b8826fa6/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/6_vecAssembler_b33135699ce3/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/6_vecAssembler_b33135699ce3/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/6_vecAssembler_b33135699ce3/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/6_vecAssembler_b33135699ce3/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/7_logreg_84e538faf9ca/data/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/7_logreg_84e538faf9ca/data/.part-00000-dc97ba31-2572-4017-b4ac-ed2dd3ac9dea-c000.snappy.parquet.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/7_logreg_84e538faf9ca/data/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/7_logreg_84e538faf9ca/data/part-00000-dc97ba31-2572-4017-b4ac-ed2dd3ac9dea-c000.snappy.parquet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/7_logreg_84e538faf9ca/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/7_logreg_84e538faf9ca/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/7_logreg_84e538faf9ca/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/model/stages/7_logreg_84e538faf9ca/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/0_regexTok_6bd909d1a574/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/0_regexTok_6bd909d1a574/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/0_regexTok_6bd909d1a574/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/0_regexTok_6bd909d1a574/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/1_stopWords_566e56454f8c/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/1_stopWords_566e56454f8c/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/1_stopWords_566e56454f8c/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/1_stopWords_566e56454f8c/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/2_cntVec_b48fb6f972de/data/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/2_cntVec_b48fb6f972de/data/.part-00000-c6c7d8e5-d02c-44b7-9c83-677d30405468-c000.snappy.parquet.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/2_cntVec_b48fb6f972de/data/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/2_cntVec_b48fb6f972de/data/part-00000-c6c7d8e5-d02c-44b7-9c83-677d30405468-c000.snappy.parquet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/2_cntVec_b48fb6f972de/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/2_cntVec_b48fb6f972de/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/2_cntVec_b48fb6f972de/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/2_cntVec_b48fb6f972de/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/3_idf_ca9fa8842fbc/data/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/3_idf_ca9fa8842fbc/data/.part-00000-0226eb8c-d94b-4bf2-8e75-8008948bf379-c000.snappy.parquet.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/3_idf_ca9fa8842fbc/data/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/3_idf_ca9fa8842fbc/data/part-00000-0226eb8c-d94b-4bf2-8e75-8008948bf379-c000.snappy.parquet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/3_idf_ca9fa8842fbc/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/3_idf_ca9fa8842fbc/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/3_idf_ca9fa8842fbc/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/3_idf_ca9fa8842fbc/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/4_strIdx_e687a4a81dc5/data/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/4_strIdx_e687a4a81dc5/data/.part-00000-f1727a94-3d7c-466f-b0ae-1acaaa03b393-c000.snappy.parquet.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/4_strIdx_e687a4a81dc5/data/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/4_strIdx_e687a4a81dc5/data/part-00000-f1727a94-3d7c-466f-b0ae-1acaaa03b393-c000.snappy.parquet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/4_strIdx_e687a4a81dc5/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/4_strIdx_e687a4a81dc5/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/4_strIdx_e687a4a81dc5/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/4_strIdx_e687a4a81dc5/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/5_strIdx_c3e0b8826fa6/data/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/5_strIdx_c3e0b8826fa6/data/.part-00000-461c6c7a-eaa2-4cd2-a5fd-8f7417f32cf2-c000.snappy.parquet.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/5_strIdx_c3e0b8826fa6/data/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/5_strIdx_c3e0b8826fa6/data/part-00000-461c6c7a-eaa2-4cd2-a5fd-8f7417f32cf2-c000.snappy.parquet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/5_strIdx_c3e0b8826fa6/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/5_strIdx_c3e0b8826fa6/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/5_strIdx_c3e0b8826fa6/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/5_strIdx_c3e0b8826fa6/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/6_vecAssembler_b33135699ce3/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/6_vecAssembler_b33135699ce3/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/6_vecAssembler_b33135699ce3/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/6_vecAssembler_b33135699ce3/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/7_logreg_84e538faf9ca/data/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/7_logreg_84e538faf9ca/data/.part-00000-5a72144c-2a2e-4d0b-b73e-0baf36fe09b2-c000.snappy.parquet.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/7_logreg_84e538faf9ca/data/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/7_logreg_84e538faf9ca/data/part-00000-5a72144c-2a2e-4d0b-b73e-0baf36fe09b2-c000.snappy.parquet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/7_logreg_84e538faf9ca/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/7_logreg_84e538faf9ca/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/7_logreg_84e538faf9ca/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/bestModel/stages/7_logreg_84e538faf9ca/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/0_regexTok_6bd909d1a574/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/0_regexTok_6bd909d1a574/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/0_regexTok_6bd909d1a574/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/0_regexTok_6bd909d1a574/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/1_stopWords_566e56454f8c/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/1_stopWords_566e56454f8c/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/1_stopWords_566e56454f8c/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/1_stopWords_566e56454f8c/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/2_cntVec_b48fb6f972de/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/2_cntVec_b48fb6f972de/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/2_cntVec_b48fb6f972de/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/2_cntVec_b48fb6f972de/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/3_idf_ca9fa8842fbc/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/3_idf_ca9fa8842fbc/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/3_idf_ca9fa8842fbc/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/3_idf_ca9fa8842fbc/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/4_strIdx_e687a4a81dc5/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/4_strIdx_e687a4a81dc5/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/4_strIdx_e687a4a81dc5/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/4_strIdx_e687a4a81dc5/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/5_strIdx_c3e0b8826fa6/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/5_strIdx_c3e0b8826fa6/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/5_strIdx_c3e0b8826fa6/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/5_strIdx_c3e0b8826fa6/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/6_vecAssembler_b33135699ce3/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/6_vecAssembler_b33135699ce3/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/6_vecAssembler_b33135699ce3/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/6_vecAssembler_b33135699ce3/metadata/part-00000" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/7_logreg_84e538faf9ca/metadata/._SUCCESS.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/7_logreg_84e538faf9ca/metadata/.part-00000.crc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/7_logreg_84e538faf9ca/metadata/_SUCCESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/predictions/estimator/stages/7_logreg_84e538faf9ca/metadata/part-00000" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/model/metadata/.part-00000.crc" afterPath="$PROJECT_DIR$/data/model/metadata/.part-00000.crc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predictions/bestModel/metadata/.part-00000.crc" afterPath="$PROJECT_DIR$/predictions/bestModel/metadata/.part-00000.crc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predictions/estimator/metadata/.part-00000.crc" afterPath="$PROJECT_DIR$/predictions/estimator/metadata/.part-00000.crc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predictions/evaluator/metadata/.part-00000.crc" afterPath="$PROJECT_DIR$/predictions/evaluator/metadata/.part-00000.crc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predictions/metadata/.part-00000.crc" afterPath="$PROJECT_DIR$/predictions/metadata/.part-00000.crc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/TP_ParisTech_2017_2018-assembly-1.0.jar" afterPath="$PROJECT_DIR$/target/scala-2.11/TP_ParisTech_2017_2018-assembly-1.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/assembly/$global/streams/assembly-inputs" afterPath="$PROJECT_DIR$/target/streams/$global/assembly/$global/streams/assembly-inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/model/metadata/part-00000" afterPath="$PROJECT_DIR$/data/model/metadata/part-00000" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predictions/bestModel/metadata/part-00000" afterPath="$PROJECT_DIR$/predictions/bestModel/metadata/part-00000" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predictions/estimator/metadata/part-00000" afterPath="$PROJECT_DIR$/predictions/estimator/metadata/part-00000" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predictions/evaluator/metadata/part-00000" afterPath="$PROJECT_DIR$/predictions/evaluator/metadata/part-00000" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predictions/metadata/part-00000" afterPath="$PROJECT_DIR$/predictions/metadata/part-00000" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/sparkProject/Trainer.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/sparkProject/Trainer.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -46,8 +200,8 @@
       <file leaf-file-name="Trainer.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/sparkProject/Trainer.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="114" column="13" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="178" column="28" lean-forward="false" selection-start-line="178" selection-start-column="28" selection-end-line="178" selection-end-column="28" />
               <folding>
                 <element signature="e#26#59#0" expanded="true" />
               </folding>
@@ -77,6 +231,9 @@
       <find>indexer</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -98,6 +255,7 @@
     <option name="width" value="1855" />
     <option name="height" value="1084" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -113,7 +271,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,9 +319,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,8 +483,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25051126" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -808,8 +966,8 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/sparkProject/tmp.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/sparkProject/Trainer.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="114" column="13" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+        <state relative-caret-position="357">
+          <caret line="178" column="28" lean-forward="false" selection-start-line="178" selection-start-column="28" selection-end-line="178" selection-end-column="28" />
           <folding>
             <element signature="e#26#59#0" expanded="true" />
           </folding>

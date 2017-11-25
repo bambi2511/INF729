@@ -51,7 +51,8 @@ object Trainer {
     /** CHARGER LE DATASET **/
     val df: DataFrame = spark
       .read
-      .parquet("/home/bambi/source/INF729/Scala_TP/data/prepared_trainingset")
+    //  .parquet("/home/bambi/source/INF729/Scala_TP/data/prepared_trainingset")
+      .parquet("data/prepared_trainingset")
 
     // b) nombre de lignes et colonnes
     println(s"Total number of rows: ${df.count}")
